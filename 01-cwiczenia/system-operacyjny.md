@@ -36,7 +36,7 @@
 
 | Charakterystyka           | wartość               | komentarzu                |
 | -------------             |:-------------:        | -----:                    |
-| nazwa                     | linux                 | centos 7                  |
+| nazwa                     | alpine                | centos 7                  |
 | cfg interfejsów           | centos 7 | /etc/sysconfig/network-scripts         |
 | program (parametry sieci) | niewiem               |                           |
 | Nazwa                     | Alpine                |                           |
